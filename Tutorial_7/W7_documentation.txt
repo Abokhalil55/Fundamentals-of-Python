@@ -1,0 +1,7 @@
+Bug Identification in main.py:
+1. Crash on string formatting: The original script attempts to format the `total` variable as a float (`{total:.2f}`) in the print statement. However, if an invalid price or quantity is entered, `calculate_total` returns an error string (e.g., "invalid price"). Passing a string to a float formatter causes a TypeError/ValueError crash.
+2. Crash on non-numeric input: If a customer types letters instead of numbers for the price or quantity, `float()` or `int()` will crash the program. 
+
+Fixes Applied:
+- Added an `isinstance(total, str)` check to handle string error messages separately from valid numerical totals.
+- Wrapped the input process in a `try-except ValueError` block to validate numeric input and prevent crashes.
