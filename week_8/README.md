@@ -9,7 +9,7 @@ This application is designed to streamline a simple food ordering process for a 
 
 ## 4.3. How to Use
 1. Ensure you have Python installed on your system.
-2. Clone or download the project files (`app.py`, `customer.py`, `receipt.py`) into the same folder.
+2. Clone or download the project files (`main.py`, `customer.py`, `receipt.py`) into the same folder.
 3. Open your terminal or command prompt, navigate to the folder, and run:
    python main.py
 
