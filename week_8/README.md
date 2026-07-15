@@ -15,4 +15,4 @@ This application is designed to streamline a simple food ordering process for a 
 
 ## 4.4 Demonstrate the application:
 
-Youtube URL: https://youtu.be/8CsSFxO2iwU
+![Project Demonstration](project_demostarte.gif)
