@@ -33,6 +33,6 @@ Ensure Python 3 is installed on your local system. You can verify your installat
 python --version  
 
 
-4.4. Demonstrate the application using screen recording (Video/GIF Format)
+### 4.4. Demonstrate the application using screen recording (Video/GIF Format)
 
 ![Project Demonstration](project_demostarte.gif)
