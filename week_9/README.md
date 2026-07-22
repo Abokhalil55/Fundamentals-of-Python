@@ -30,8 +30,7 @@ The **IT Helpdesk Ticket System** was developed to streamline the initial intake
 
 * ** 1. Prerequisites**
 Ensure Python 3 is installed on your local system. You can verify your installation by running:
-```bash
-python --version   # Windows
+python --version  
 
 
 4.4. Demonstrate the application using screen recording (Video/GIF Format)
