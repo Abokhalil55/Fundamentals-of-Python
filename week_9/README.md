@@ -28,7 +28,7 @@ The **IT Helpdesk Ticket System** was developed to streamline the initial intake
 
 ### 4.3. How to use
 
-#### 1. Prerequisites
+* ** 1. Prerequisites
 Ensure Python 3 is installed on your local system. You can verify your installation by running:
 ```bash
 python --version   # Windows
