@@ -1,6 +1,6 @@
 # IT Helpdesk Ticket System
 
-An intuitive, command-line-based IT ticketing application written in Python. This tool allows users to quickly log technical support requests, collects necessary diagnostic details, and automatically assigns a responsible technician based on the severity level of the reported issue.
+An obvious, command-line-based IT ticketing application written in Python. This tool allows users to quickly log technical support requests, collects necessary diagnostic details, and automatically assigns a responsible technician based on the severity level of the reported issue.
 
 ---
 
